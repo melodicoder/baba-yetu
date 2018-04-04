@@ -1,0 +1,15 @@
+<html>
+   <body style="background-color:pink;">
+      <h1 style="color:blue;"> My life </h1>
+
+      <h2> Why I picked up web dev </h2>
+      <p><font face="verdana" color="green">bcos i love Aaron!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</font></p>
+
+      <h2> Zendaya </h2>
+      <img src="http://pop.inquirer.net/files/2018/01/Zendaya-in-THE-GREATEST-SHOWMAN.jpg" width="200">
+      <p><font face="cursive">why not?</font></p>
+
+      <h2> Websites that shouldn't be blocked </h2> 
+      <p> <a href="https://armorgames.com/">look here</a> </p>
+   </body>
+</html>
