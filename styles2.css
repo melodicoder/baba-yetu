@@ -1,0 +1,110 @@
+#text{
+	background-color: gray
+	display: block;
+
+}
+
+#1{
+    background-color: gray
+    display: block;
+    margin: 200px;
+    border: 10px;
+
+
+}
+
+#2{
+    background-color: gray
+    display: block;
+    margin: 200px;
+    border: 10px;
+    
+}
+
+
+
+#3{
+    background-color: gray
+    display: block;
+    margin: 200px;
+    border: 10px;
+
+}
+
+
+#4{
+    background-color: gray
+    display: block;
+    margin: 200px;
+    border: 10px;
+}
+
+#5{
+    background-color: gray
+    display: block;
+    margin: 200px;
+    border: 10px;
+}
+
+#6{
+    background-color: gray
+    display: block;
+    margin: 200px;
+    border: 10px;
+}
+
+#7{
+    background-color: gray
+    display: block;
+    margin: 200px;
+    border: 10px;
+}
+
+#8{
+    background-color: gray
+    display: block;
+    margin: 200px;
+    border: 10px;
+}
+
+#9{
+    background-color: gray
+    display: block;
+    margin: 200px;
+    border: 10px;
+}
+
+#0{
+    background-color: gray
+    display: block;
+    margin: 200px;
+    border: 10px;
+
+}
+
+.submit{
+    display: block;
+    margin: 200px;
+    border: 10px;
+}
+
+.sect1{
+    display: inline-block;
+    height: 50px
+}
+
+
+.sect2{
+    display: inline-block;
+    height: 50px
+}
+
+.sect3{
+    display: inline-block;
+    height: 50px
+}
+
+.sect4{
+	display: inline-block;
+	height: 50px;
+}

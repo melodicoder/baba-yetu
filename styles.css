@@ -1,3 +1,7 @@
+
+
+
+
 #fm{
 background-color: red;
 }
@@ -5,12 +9,16 @@ background-color: red;
 background-color: pink;
 }
 #blocker{
-background-color: navy;
+background-color: white;
 }
 
 .fruit{
 	position: absolute;
-	right: 500px;
-	bottom: 350px;
-	border: 3px;
+	right: 1100px;
+	bottom: 450px;
+	border: 0px;
+}
+
+.mine {
+	font-size: 50px;
 }
